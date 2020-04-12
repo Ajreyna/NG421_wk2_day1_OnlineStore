@@ -28,9 +28,9 @@ https://blackrockdigital.github.io/startbootstrap-shop-homepage/
 * Make sure not to remove `<app-root></app-root>` from index.html.
 * Nothing will show up until you complete this step.
 
-### Model
+### Model (INTERFACE!!!!)// (ngGenerate -interface models/iproduct)(NOTES MADE BY ME! A.J.!!!!)
 * create an interface for what a `product` should look like
-* look at products.ts to get an idea of what properties a product should have and what types
+* look at products.ts to get an idea of what properties a product should have and what typCINEOSNIEes
 ```
  {
       "id": 1,
