@@ -108,6 +108,13 @@ https://blackrockdigital.github.io/startbootstrap-shop-homepage/
 * Push yourself further. How could you show which products are actually in the cart?
   
 
+
+
+
+
+
+  
+
 # Extra Credit
 ### Server
 * Create a database for this project
